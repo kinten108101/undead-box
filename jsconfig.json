@@ -1,0 +1,19 @@
+{
+	"compilerOptions": {
+		"lib": ["ES2022"],
+		"module": "commonjs",
+		"strict": true,
+		"noUnusedLocals": true,
+		"noUnusedParameters": true,
+		"noImplicitReturns": true,
+		"noFallthroughCasesInSwitch": true,
+		"noUncheckedIndexedAccess": true,
+		"forceConsistentCasingInFileNames": true,
+		"strictNullChecks": true,
+		"allowJs": true,
+		"checkJs": true
+	},
+	"include": [
+		"lib/**/*.js"
+	]
+}
